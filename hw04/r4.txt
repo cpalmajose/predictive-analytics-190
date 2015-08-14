@@ -1,0 +1,1000 @@
+a: 30695
+the: 27569
+and: 19512
+of: 15935
+is: 12623
+with: 11298
+to: 9466
+this: 9068
+i: 8471
+it: 8144
+in: 7033
+but: 6836
+beer: 6068
+that: 5364
+very: 4747
+head: 4688
+with a: 4587
+not: 4555
+as: 4270
+for: 4218
+on: 4168
+some: 3946
+was: 3417
+taste: 3353
+nice: 3339
+good: 3203
+hops: 3175
+light: 3163
+malt: 3119
+like: 2812
+one: 2637
+from: 2637
+in the: 2595
+its: 2494
+at: 2476
+carbonation: 2365
+dark: 2363
+bit: 2361
+more: 2339
+sweet: 2317
+flavor: 2272
+of the: 2245
+an: 2186
+little: 2126
+my: 2082
+aroma: 2066
+is a: 2056
+on the: 2033
+well: 2020
+hop: 1993
+there: 1910
+a bit: 1910
+chocolate: 1891
+glass: 1851
+be: 1824
+color: 1823
+finish: 1818
+lacing: 1807
+just: 1788
+pours: 1782
+this is: 1774
+smell: 1771
+mouthfeel: 1687
+up: 1684
+no: 1682
+into: 1681
+this beer: 1675
+really: 1642
+and a: 1627
+much: 1610
+out: 1600
+body: 1585
+have: 1580
+all: 1575
+a little: 1570
+you: 1564
+are: 1511
+bitter: 1510
+caramel: 1507
+than: 1500
+has: 1497
+had: 1494
+bitterness: 1477
+bottle: 1457
+alcohol: 1445
+poured: 1433
+medium: 1417
+notes: 1364
+a nice: 1343
+nose: 1342
+would: 1337
+me: 1334
+citrus: 1302
+too: 1296
+can: 1285
+s: 1276
+malts: 1275
+t: 1254
+smooth: 1240
+great: 1235
+white: 1228
+flavors: 1225
+by: 1217
+coffee: 1205
+pretty: 1192
+so: 1186
+this one: 1173
+black: 1171
+brown: 1148
+or: 1126
+roasted: 1125
+m: 1120
+overall: 1119
+pours a: 1118
+the beer: 1100
+thick: 1096
+if: 1084
+sweetness: 1083
+ipa: 1072
+to the: 1066
+big: 1051
+orange: 1044
+bit of: 1028
+slightly: 1004
+a very: 1003
+thin: 998
+it is: 993
+quite: 973
+amber: 967
+into a: 944
+the taste: 935
+head that: 934
+brew: 930
+drink: 923
+for a: 909
+down: 901
+from the: 890
+creamy: 888
+style: 884
+the nose: 874
+slight: 874
+d: 858
+of a: 851
+pine: 850
+white head: 826
+strong: 826
+a good: 825
+in a: 824
+color with: 824
+with some: 817
+what: 816
+get: 816
+about: 814
+which: 813
+dry: 812
+almost: 811
+taste is: 806
+the glass: 801
+clear: 790
+first: 773
+vanilla: 763
+could: 760
+ale: 759
+here: 758
+bodied: 757
+full: 754
+the finish: 753
+with the: 751
+grapefruit: 748
+as well: 748
+but not: 747
+for the: 741
+pumpkin: 740
+pale: 740
+im: 733
+also: 733
+smells: 731
+off: 726
+again: 726
+way: 714
+better: 714
+there is: 713
+decent: 710
+drinkability: 709
+has a: 706
+other: 705
+beers: 700
+at the: 699
+still: 698
+drinkable: 690
+through: 689
+the aroma: 687
+hint: 684
+after: 677
+touch: 663
+finger: 657
+hint of: 645
+balanced: 644
+pint: 643
+hoppy: 643
+stout: 642
+though: 636
+lots: 636
+and the: 636
+malty: 634
+mouthfeel is: 633
+even: 633
+quickly: 630
+to be: 622
+appearance: 616
+a light: 615
+feel: 614
+rich: 612
+lots of: 609
+to a: 608
+only: 604
+fruit: 602
+deep: 599
+bourbon: 592
+ive: 587
+think: 586
+small: 586
+bomber: 584
+of this: 581
+bad: 578
+then: 577
+beer is: 575
+it was: 574
+floral: 574
+the hops: 573
+i would: 571
+definitely: 565
+boris: 563
+aftertaste: 563
+pour: 561
+palate: 561
+around: 561
+mild: 559
+retention: 558
+the flavor: 557
+lot: 556
+leaves: 556
+but it: 556
+balance: 550
+easy: 547
+tastes: 543
+back: 542
+any: 541
+lace: 540
+nothing: 539
+but i: 539
+most: 536
+over: 532
+abv: 531
+whiskey: 529
+from a: 523
+a touch: 523
+hints: 520
+heavy: 519
+is very: 516
+but the: 514
+was a: 512
+touch of: 512
+poured into: 512
+they: 509
+golden: 509
+mouth: 508
+a lot: 504
+try: 497
+and some: 497
+cinnamon: 496
+when: 494
+i was: 494
+time: 493
+enough: 493
+solid: 492
+one of: 485
+crisp: 485
+amount: 484
+while: 483
+the smell: 482
+dont: 477
+end: 475
+aroma is: 472
+the style: 468
+best: 468
+character: 465
+hints of: 464
+tan: 462
+as it: 461
+front: 459
+low: 458
+amount of: 458
+just a: 455
+barrel: 454
+aromas: 454
+your: 453
+spice: 452
+pint glass: 452
+moderate: 452
+that is: 448
+right: 447
+a hint: 446
+like a: 444
+earthy: 440
+doesnt: 440
+thanks: 438
+something: 436
+maybe: 435
+chocolate and: 427
+i have: 425
+sure: 423
+fruity: 420
+will: 419
+malt and: 419
+fairly: 418
+as the: 418
+sticky: 416
+spicy: 416
+a thin: 414
+theres: 413
+fresh: 413
+hazy: 412
+few: 412
+spices: 411
+being: 409
+top: 408
+side: 407
+that i: 406
+to drink: 405
+comes: 402
+another: 402
+copper: 401
+not a: 399
+frog: 399
+clean: 399
+yellow: 396
+two: 396
+drinking: 394
+to it: 391
+going: 391
+a great: 391
+a pours: 390
+high: 389
+foam: 389
+the palate: 387
+long: 387
+id: 384
+dark chocolate: 382
+hops and: 379
+does: 379
+oz: 377
+huge: 376
+smell is: 375
+oatmeal: 375
+isnt: 375
+is not: 375
+is the: 374
+a slight: 374
+sugar: 373
+hoppin: 373
+the mouthfeel: 371
+this was: 369
+left: 369
+do: 364
+very nice: 363
+average: 363
+i think: 362
+come: 362
+nicely: 360
+lot of: 360
+and i: 359
+oak: 357
+not much: 355
+bubbles: 353
+a few: 353
+a big: 353
+seems: 351
+tongue: 350
+the head: 350
+say: 349
+medium bodied: 348
+got: 348
+make: 347
+at all: 346
+love: 345
+imperial: 345
+black with: 345
+see: 343
+rather: 343
+toasted: 342
+presence: 342
+worth: 340
+tasty: 340
+sip: 340
+fruits: 340
+poured from: 339
+roasted malt: 337
+i had: 337
+up front: 335
+along: 335
+piney: 334
+offwhite: 334
+nutmeg: 333
+the malt: 332
+yeast: 331
+looking: 331
+am: 331
+22oz: 331
+the end: 329
+if you: 329
+a small: 329
+of hops: 328
+tan head: 327
+for me: 327
+roasted malts: 325
+goes: 325
+the best: 324
+red: 324
+makes: 324
+i could: 324
+had a: 324
+go: 323
+expected: 323
+present: 322
+leaving: 322
+body with: 322
+were: 320
+the alcohol: 320
+somewhat: 320
+watery: 319
+their: 319
+thats: 316
+hoppin frog: 316
+flavor is: 316
+snifter: 315
+o: 314
+cant: 314
+burnt: 311
+it has: 310
+colored: 310
+before: 309
+been: 309
+because: 308
+looks: 306
+these: 303
+lager: 302
+out of: 301
+22: 301
+served: 300
+faint: 300
+grain: 299
+its a: 298
+notes of: 296
+i am: 296
+in this: 295
+complex: 293
+but this: 293
+very good: 292
+excellent: 292
+as i: 291
+probably: 290
+toffee: 289
+smooth and: 289
+how: 289
+grassy: 287
+ginger: 287
+medium body: 285
+caramel and: 285
+of carbonation: 283
+in my: 283
+finishes: 283
+didnt: 281
+profile: 280
+same: 279
+lingering: 279
+as a: 279
+all the: 279
+molasses: 278
+a dark: 278
+pleasant: 276
+many: 276
+kind: 276
+honey: 276
+gold: 276
+away: 276
+i like: 275
+yet: 273
+a clear: 273
+a beer: 273
+thing: 272
+the mouth: 272
+but its: 272
+subtle: 271
+lemon: 271
+head and: 271
+actually: 270
+warms: 269
+ever: 269
+bite: 269
+sweet malt: 268
+lacing s: 268
+by the: 267
+offwhite head: 266
+be a: 266
+citrusy: 265
+perfect: 264
+dark brown: 264
+along with: 263
+would be: 262
+tasting: 262
+on this: 262
+enjoyable: 262
+without: 261
+carbonated: 261
+a decent: 261
+ring: 260
+poured a: 260
+i can: 260
+should: 259
+this brew: 258
+the bottle: 258
+less: 258
+interesting: 258
+far: 258
+amber color: 258
+mostly: 257
+and it: 257
+on a: 256
+nose is: 256
+beer but: 256
+refreshing: 255
+like the: 255
+brewery: 255
+roasty: 254
+not too: 254
+half: 254
+find: 254
+the tongue: 253
+sweet and: 253
+easy to: 253
+a pint: 253
+12: 253
+thanks to: 251
+kind of: 250
+too much: 249
+coffee and: 249
+caramel malt: 249
+regular: 248
+followed: 248
+cap: 248
+aged: 248
+did: 247
+by a: 247
+with an: 245
+thick and: 245
+roast: 244
+enjoy: 244
+bready: 244
+beer i: 244
+to try: 243
+which is: 242
+plenty: 242
+herbal: 242
+the same: 241
+hop bitterness: 241
+wheat: 240
+not as: 240
+carbonation and: 240
+the first: 238
+no head: 238
+malts and: 238
+i dont: 237
+bread: 237
+give: 235
+tulip: 234
+of dark: 234
+lightly: 234
+ive had: 234
+than the: 233
+tap: 233
+take: 233
+ris: 233
+more of: 232
+minimal: 232
+thought: 229
+hot: 229
+for this: 229
+fades: 229
+citrus and: 229
+want: 228
+little bit: 228
+enjoyed: 228
+carbonation is: 228
+booze: 228
+american: 228
+full bodied: 227
+the back: 226
+its not: 226
+is pretty: 226
+the way: 225
+know: 225
+in color: 225
+however: 225
+behind: 225
+pale ale: 224
+bright: 223
+plenty of: 222
+night: 222
+day: 222
+cloudy: 222
+22 oz: 222
+look: 221
+cocoa: 221
+of caramel: 219
+hard: 219
+belgian: 219
+note: 218
+might: 218
+expect: 218
+backbone: 218
+quality: 217
+drinkability is: 217
+slowly: 216
+real: 216
+now: 216
+followed by: 216
+but a: 216
+the body: 215
+soft: 215
+oily: 215
+the flavors: 214
+finish is: 214
+fine: 214
+a thick: 214
+scent: 213
+throughout: 212
+inch: 212
+beer and: 212
+alcohol is: 212
+version: 211
+review: 210
+pretty good: 210
+pine and: 210
+maltiness: 210
+brown head: 210
+no lacing: 207
+around the: 207
+price: 206
+of citrus: 206
+a deep: 206
+glass a: 205
+background: 205
+off white: 204
+is good: 204
+ipas: 203
+grainy: 203
+brown sugar: 203
+body is: 203
+and very: 203
+what i: 201
+head with: 201
+else: 201
+perhaps: 200
+overall a: 200
+it a: 200
+very drinkable: 199
+made: 199
+light beer: 199
+licorice: 199
+last: 198
+dipa: 198
+chewy: 198
+a solid: 198
+ill: 197
+foamy: 197
+certainly: 197
+a medium: 197
+sharp: 196
+of lacing: 196
+middle: 196
+level: 195
+ba: 195
+vanilla and: 194
+extremely: 194
+clove: 194
+bodied with: 194
+and not: 194
+would have: 193
+never: 193
+may: 193
+typical: 192
+ok: 192
+of sweet: 192
+new: 192
+good beer: 192
+the hop: 191
+more than: 191
+mocha: 191
+hops are: 191
+have a: 191
+of alcohol: 190
+dark fruit: 190
+them: 189
+the carbonation: 189
+wasnt: 188
+of chocolate: 188
+goes down: 188
+bottle into: 188
+amber with: 188
+a slightly: 188
+better than: 187
+similar: 186
+hop flavor: 186
+especially: 186
+coming: 186
+although: 186
+well balanced: 185
+water: 184
+warming: 184
+starts: 184
+over the: 184
+noticeable: 184
+is an: 184
+date: 184
+body and: 184
+a strong: 184
+those: 183
+there are: 183
+syrupy: 183
+smoke: 183
+smells like: 183
+of my: 183
+getting: 183
+found: 183
+favorite: 183
+delicious: 183
+2: 183
+very light: 182
+there was: 182
+nice and: 182
+intense: 182
+you can: 181
+stouts: 181
+oats: 181
+i really: 181
+i cant: 181
+grapefruit and: 181
+done: 180
+super: 179
+overall this: 179
+a bottle: 179
+22oz bottle: 179
+where: 178
+easily: 178
+beer that: 178
+the aftertaste: 177
+dark fruits: 177
+retention and: 176
+smells of: 175
+than i: 174
+and creamy: 174
+head is: 173
+anything: 173
+1: 173
+very little: 172
+the top: 172
+such: 172
+m medium: 172
+different: 172
+at first: 172
+either: 171
+a hazy: 171
+warm: 170
+to have: 170
+pick: 170
+low carbonation: 170
+and leaves: 170
+standard: 169
+it warms: 169
+into the: 169
+frothy: 169
+with no: 168
+very well: 168
+tried: 168
+the most: 168
+nearly: 168
+like it: 168
+is medium: 168
+of malt: 167
+light and: 167
+head the: 167
+dissipates: 167
+a can: 167
+the bitterness: 166
+on tap: 166
+is also: 166
+in there: 166
+heat: 166
+a pretty: 166
+things: 165
+caldera: 165
+both: 165
+beer with: 165
+amstel: 165
+with this: 164
+to me: 164
+that it: 164
+lighter: 164
+have to: 164
+base: 164
+a sweet: 164
+weak: 163
+that the: 163
+tasted: 163
+said: 163
+between: 163
+and sweet: 163
+a bad: 163
+the middle: 162
+start: 162
+leaves a: 162
+finger of: 162
+wood: 161
+one is: 161
+lingers: 161
+large: 161
+into my: 161
+enough to: 161
+at a: 161
+and caramel: 161
+to get: 160
+stuff: 160
+is one: 160
+i love: 160
+hue: 160
+forward: 160
+double: 160
+bit more: 160
+aroma of: 160
+pitch: 159
+not bad: 159
+least: 159
+who: 158
+the background: 158
+hop aroma: 158
+gets: 158
+so i: 157
+like this: 157
+fingers: 157
+the barrel: 156
+texture: 156
+of these: 156
+label: 156
+is just: 156
+colored head: 156
+and chocolate: 156
+straw: 155
+session: 155
+overpowering: 155
+if i: 155
+barrel aged: 155
+and bitter: 155
+is of: 154
+going on: 154
+beer pours: 154
+above: 154
+theres a: 153
+the other: 153
+short: 153
+on top: 153
+keep: 153
+up to: 152
+sour: 152
+of coffee: 152
+not the: 152
+mix: 152
+is quite: 152
+boozy: 152
+and coffee: 152
+a while: 152
+very smooth: 151
+oz bottle: 151
+i get: 151
+banana: 151
+seems to: 150
+pie: 150
+and pine: 150
+and is: 150
+and citrus: 150
+toasty: 149
+tastes like: 149
+pitch black: 149
+for an: 149
+copper color: 149
+wow: 148
+cream: 148
+whole: 147
+trying: 147
+overly: 147
+of an: 147
+not sure: 147
+moderate carbonation: 147
+little more: 147
+i will: 147
+glass the: 147
+served in: 146
+mixed: 146
+lacing the: 146
+bitterness and: 146
+and dark: 146
+an ipa: 146
+we: 145
+viscous: 145
+to this: 145
+taste was: 145
+sort: 145
+old: 145
+next: 145
+flavor and: 145
+down the: 145
+citrus hops: 145
+aging: 145
+a finger: 145
+wonderful: 144
+imperial stout: 144
+green: 144
+fizzy: 144
+used: 143
+that this: 143
+medium carbonation: 143
+get a: 143
+beer has: 143
+and this: 143
+amazing: 143
+together: 142
+let: 142
+i thought: 142
+corn: 142
+seem: 141
+oil: 141
+glad: 141
+beer was: 141
+surprisingly: 140
+slick: 140
+side of: 140
+picked: 140
+of pine: 140
+fluffy: 140
+buy: 140
+bold: 140
+orange with: 139
+malt backbone: 139
+hops with: 139
+highly: 139
+cinnamon and: 139
+apple: 139
+a pale: 139
+a huge: 139
+up a: 138
+through the: 138
+pineapple: 138
+one finger: 138
+grains: 138
+and light: 138
+sort of: 137
+since: 137
+out the: 137
+once: 137
+of vanilla: 137
+finger head: 137
+each: 137
+but still: 137
+after the: 137
+with hints: 136
+well as: 136
+the whiskey: 136
+quite a: 136
+im not: 136
+every: 136
+complexity: 136
+colour: 136
+upfront: 135
+the light: 135
+my favorite: 135
+lacing on: 135
+wish: 134
+put: 134
+it had: 134
+when i: 133
+tons: 133
+reminds: 133
+opaque: 133
+near: 133
+it would: 133
+edges: 133
+but there: 133
+a snifter: 133
+a bomber: 133
+year: 132
